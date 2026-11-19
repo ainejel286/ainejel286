@@ -41,10 +41,3 @@
 - 🤖 Placement Preparation Chatbot
 - 🔥 Fire-Safety Automation System
 
-### 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/">
-    LinkedIn
-  </a>
-</p>
